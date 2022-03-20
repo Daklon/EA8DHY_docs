@@ -1,4 +1,7 @@
 site_name: EA8DHY
+site_url: https://www.ea8dhy.es
+site_descripcion: Personal website from EA8DHY
+site_author: EA8DHY
 
 theme:
   name: material
