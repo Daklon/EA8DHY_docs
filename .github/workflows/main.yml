@@ -24,8 +24,8 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material
-      - run: mkdocs build -f config/en/mkdocs.yaml
-      - run: mkdocs build -f config/es/mkdocs.yaml
+      - run: mkdocs build -f config/en/mkdocs.yml
+      - run: mkdocs build -f config/es/mkdocs.yml
       - run: cp index.html generated/index.html && cp CNAME generated/CNAME
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
