@@ -2,7 +2,7 @@ site_name: EA8DHY
 docs_dir: '../../docs/es'
 site_dir: '../../generated/es'
 site_url: https://www.ea8dhy.es/es
-site_descripcion: Web personal de EA8DHY
+site_description: Web personal de EA8DHY
 site_author: EA8DHY
 
 theme:

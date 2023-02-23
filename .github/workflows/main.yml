@@ -30,6 +30,6 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           branch: gh-pages
-          file-pattern: 'generated/*'
+          file_pattern: 'generated/*'
           push_options: '--force'
           skip_fetch: true
