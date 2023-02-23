@@ -1,0 +1,22 @@
+site_name: EA8DHY
+docs_dir: '../../docs/en'
+site_dir: '../../generated/en'
+site_url: https://www.ea8dhy.es/en
+site_description: Personal website from EA8DHY
+site_author: EA8DHY
+
+theme:
+  name: material
+  custom_dir: '../../overrides/'
+  language: en
+
+extra:
+  alternate:
+    #switch to English
+    - name: English
+      link: /en/
+      lang: en
+    #switch to Spanish
+    - name: Spanish
+      link: /es/
+      lang: es
