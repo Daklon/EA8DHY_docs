@@ -10,15 +10,15 @@ Este es el diagrama del cable. Necesitarás dos conectores tipo jack de 3,5 y un
 
 El conector minidin es un poco difícil de soldar, así que se paciente, pero si yo fui capaz de hacerlo estoy seguro de que cualquiera puede.
 
-![acc-cable-xiegu](/es/assets/images/xiegu-cable-soldering1.jpg)
+![xiegu-cable-soldering1](/es/assets/images/xiegu-cable-soldering1.jpg)
 
-![acc-cable-xiegu](/es/assets/images/xiegu-cable-soldering2.jpg)
+![xiegu-cable-soldering2](/es/assets/images/xiegu-cable-soldering2.jpg)
 
-![acc-cable-xiegu](/es/assets/images/xiegu-cable-soldering3.jpg)
+![xiegu-cable-soldering3](/es/assets/images/xiegu-cable-soldering3.jpg)
 
 Aquí tenemos el resultado final
 
-![acc-cable-xiegu](/en/assets/images/xiegu-cable-finished.jpg)
+![xiegu-cable-finished](/es/assets/images/xiegu-cable-finished.jpg)
 
 ## Testing
 
@@ -28,4 +28,4 @@ En cualquier caso el cable funcionó sin problemas, tuve que ajustar manualmente
 
 Este cable me permitió hacer mi primer qso en ft8 con IZ20AR a unos 2900 km de mi. Nada mal para lo mala y simple que era la antena que estaba usando en ese momento.
 
-![acc-cable-xiegu] (/en/assets/images/first-ft8-qso.jpg)
+![first-ft8-qso] (/en/assets/images/first-ft8-qso.jpg)

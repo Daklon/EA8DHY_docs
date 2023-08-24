@@ -11,15 +11,15 @@ This is the diagram of the required cable. You wil need two male 3.5 jack connec
 
 The minidin connector is a little difficult to solder so be patient, but if I was able to do it, you will be able to do it also.
 
-![acc-cable-xiegu](/en/assets/images/xiegu-cable-soldering1.jpg)
+![xiegu-cable-soldering1](/en/assets/images/xiegu-cable-soldering1.jpg)
 
-![acc-cable-xiegu](/en/assets/images/xiegu-cable-soldering2.jpg)
+![xiegu-cable-soldering2](/en/assets/images/xiegu-cable-soldering2.jpg)
 
-![acc-cable-xiegu](/en/assets/images/xiegu-cable-soldering3.jpg)
+![xiegu-cable-soldering3](/en/assets/images/xiegu-cable-soldering3.jpg)
 
 And here we got the final result
 
-![acc-cable-xiegu](/en/assets/images/xiegu-cable-finished.jpg)
+![xiegu-cable-finished](/en/assets/images/xiegu-cable-finished.jpg)
 
 ## Testing
 
@@ -29,4 +29,4 @@ In any case the cable worked fine, I have to manually adjust the frecuency at th
 
 This cable allowed me to do my first qso ever in ft8 with IZ2OAR around 2900 km away from me. Not bad for the really bad and simple antenna that i was using at the moment.
 
-![acc-cable-xiegu] (/en/assets/images/first-ft8-qso.jpg)
+![first-ft8-qso] (/en/assets/images/first-ft8-qso.jpg)
