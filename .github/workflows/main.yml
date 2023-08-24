@@ -24,5 +24,14 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material
-      - run: mkdocs gh-deploy --force
-      
+      - run: mkdocs build -f config/en/mkdocs.yml
+      - run: mkdocs build -f config/es/mkdocs.yml
+      - run: cp index.html generated/index.html && cp CNAME generated/CNAME
+      - name: Push
+        uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: gh-pages
+          FOLDER: 'generated/*'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MESSAGE: "Build: ({sha}) {msg}"
