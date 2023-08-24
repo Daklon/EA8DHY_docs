@@ -10,15 +10,15 @@ Este es el diagrama del cable. Necesitarás dos conectores tipo jack de 3,5 y un
 
 El conector minidin es un poco difícil de soldar, así que se paciente, pero si yo fui capaz de hacerlo estoy seguro de que cualquiera puede.
 
-![acc-cable-xiegu] (/es/assets/images/xiegu-cable-soldering1.jpg)
+![acc-cable-xiegu](/es/assets/images/xiegu-cable-soldering1.jpg)
 
-![acc-cable-xiegu] (/es/assets/images/xiegu-cable-soldering2.jpg)
+![acc-cable-xiegu](/es/assets/images/xiegu-cable-soldering2.jpg)
 
-![acc-cable-xiegu] (/es/assets/images/xiegu-cable-soldering3.jpg)
+![acc-cable-xiegu](/es/assets/images/xiegu-cable-soldering3.jpg)
 
 Aquí tenemos el resultado final
 
-![acc-cable-xiegu] (/en/assets/images/xiegu-cable-finished.jpg)
+![acc-cable-xiegu](/en/assets/images/xiegu-cable-finished.jpg)
 
 ## Testing
 
