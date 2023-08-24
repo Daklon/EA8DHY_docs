@@ -12,7 +12,9 @@ This is the diagram of the required cable. You wil need two male 3.5 jack connec
 The minidin connector is a little difficult to solder so be patient, but if I was able to do it, you will be able to do it also.
 
 ![acc-cable-xiegu] (/en/assets/images/xiegu-cable-soldering1.jpg)
+
 ![acc-cable-xiegu] (/en/assets/images/xiegu-cable-soldering2.jpg)
+
 ![acc-cable-xiegu] (/en/assets/images/xiegu-cable-soldering3.jpg)
 
 And here we got the final result
