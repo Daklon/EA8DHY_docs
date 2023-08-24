@@ -1,8 +1,29 @@
-The xiegu g90 is capable of doing digital modes like ft8 or winlink. It can be cat controlled and there are a lot of different accesories, some of them from xiegu other from third parties. If you lookup on internet about how to use the g90 for digital modes, all the informaiton that you will find will tell you that you have to buy some piece of equipment.
+La xiegu g90 es capaz de transmitir en modos digitales como ft8 o winlink. Puede ser controlada por medio de cat y hay disponible una infinidad de accesorios para ella, algunos de la propia marca y otros de terceros. Si buscas en internet sobre como usar esta emisora para los modos digitales, toda la información que encuentres te dirá que necesitas comprar algo. Normalmente algún tipo de interfaz intermedia.
 
-I'm here to tell you that's not true, you only will need a single cable that can be made by yourself for free if you have old cables or for 5 euros or so if you buy everything. Having these fancy interfaces is more comfortable and can be required on some scenarios but they are not an aboslute requirement to do digital modes like ft8.
+Estoy aquí para decirte que eso no es verdad, solo necesitarás un único cable que puedes fabricarte tu mismo gratis si tienes un cable viejo o por unos 5 euros si no lo tienes. Tener esas interfaces es mucho más cómodo y tal vez sea hasta necesario en algunos escenarios, pero no es un requisito absoluto para usar los modos digitales como ft8.
 
+## Como crear el cable
 
-## How to create an acc cable
+![acc-cacble-xiegu](/es/assets/images/acc-cable-xiegu.png)
 
-![acc-cacble-xiegu](/assets/images/acc-cable-xiegu.png)
+Este es el diagrama del cable. Necesitarás dos conectores tipo jack de 3,5 y un conector minidin de 8 pines. Para el cable en si mismo usé algo de cable ethernet que me sobraba.
+
+El conector minidin es un poco difícil de soldar, así que se paciente, pero si yo fui capaz de hacerlo estoy seguro de que cualquiera puede.
+
+![acc-cable-xiegu] (/es/assets/images/xiegu-cable-soldering1.jpg)
+![acc-cable-xiegu] (/es/assets/images/xiegu-cable-soldering2.jpg)
+![acc-cable-xiegu] (/es/assets/images/xiegu-cable-soldering3.jpg)
+
+Aquí tenemos el resultado final
+
+![acc-cable-xiegu] (/en/assets/images/xiegu-cable-finished.jpg)
+
+## Testing
+
+La idea era usarlo durante la expdición a la isla bouvet 3Y0J. Lamentablemente no era capaz de recibirlos así que no tenía sentido que les llamara, además había un pile up con antenas mejores y mucha más potencia que lo que tenía yo.
+
+En cualquier caso el cable funcionó sin problemas, tuve que ajustar manualmente la frecuencia en la radio ya que no tenía control cat, pero no fue un problema, simplemente algo inconveniente.
+
+Este cable me permitió hacer mi primer qso en ft8 con IZ20AR a unos 2900 km de mi. Nada mal para lo mala y simple que era la antena que estaba usando en ese momento.
+
+![acc-cable-xiegu] (/en/assets/images/first-ft8-qso.jpg)

@@ -1,1 +1,1 @@
-This section is Work in progress
+Esta sección está en progreso

@@ -1,6 +1,6 @@
-There are some interesting links worth to checkout:
+Aquí una selección de links que me han parecido interesantes
 
-## Baluns - choosing the right one
+## Baluns - Eligiendo el correcto
 
 [VK5AJL - baluns](http://vk5ajl.com/projects/baluns.php) | [Archive](https://web.archive.org/web/20221224010342/http://vk5ajl.com/projects/baluns.php)
 

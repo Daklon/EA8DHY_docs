@@ -11,3 +11,13 @@ pip3 install -r requirements.txt
 ```
 mkdocs serve
 ```
+
+## To build the english site
+```
+mkdocs build -f config/en/mkdocs.yml
+```
+
+## To build the spanish site
+```
+mkdocs build -f config/es/mkdocs.yml
+```
