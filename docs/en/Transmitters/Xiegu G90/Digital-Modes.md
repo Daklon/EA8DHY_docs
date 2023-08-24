@@ -29,4 +29,4 @@ In any case the cable worked fine, I have to manually adjust the frecuency at th
 
 This cable allowed me to do my first qso ever in ft8 with IZ2OAR around 2900 km away from me. Not bad for the really bad and simple antenna that i was using at the moment.
 
-![first-ft8-qso] (/en/assets/images/first-ft8-qso.jpg)
+![first-ft8-qso](/en/assets/images/first-ft8-qso.jpg)

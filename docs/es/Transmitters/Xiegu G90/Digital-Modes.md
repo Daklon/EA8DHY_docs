@@ -28,4 +28,4 @@ En cualquier caso el cable funcionó sin problemas, tuve que ajustar manualmente
 
 Este cable me permitió hacer mi primer qso en ft8 con IZ20AR a unos 2900 km de mi. Nada mal para lo mala y simple que era la antena que estaba usando en ese momento.
 
-![first-ft8-qso] (/en/assets/images/first-ft8-qso.jpg)
+![first-ft8-qso](/es/assets/images/first-ft8-qso.jpg)
