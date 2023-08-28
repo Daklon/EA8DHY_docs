@@ -2,32 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.ea8dhy.es/es/</loc>
-         <lastmod>2023-08-24</lastmod>
+         <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ea8dhy.es/es/links/</loc>
-         <lastmod>2023-08-24</lastmod>
+         <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ea8dhy.es/es/variable-capacitors/</loc>
-         <lastmod>2023-08-24</lastmod>
+         <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.ea8dhy.es/es/Antennas/CB-T2TL/</loc>
-         <lastmod>2023-08-24</lastmod>
+         <loc>https://www.ea8dhy.es/es/Antenas/2m-70cm-dipolo-perchas/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ea8dhy.es/es/Antenas/CB-T2TL/</loc>
+         <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ea8dhy.es/es/Transmitters/Stefan-Simple-transmitter/</loc>
-         <lastmod>2023-08-24</lastmod>
+         <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ea8dhy.es/es/Transmitters/Xiegu%20G90/Digital-Modes/</loc>
-         <lastmod>2023-08-24</lastmod>
+         <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
