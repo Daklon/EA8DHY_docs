@@ -8,3 +8,6 @@ There are some interesting links worth to checkout:
 
 ## Xiegu G90
 [How to use digital modes on the cheap and easy](https://www.youtube.com/watch?v=3DxY1HecbhQ)
+
+## Antennas
+[Hanger dipole for 2 meters and 70 cm bands by M0MSN](https://www.youtube.com/watch?v=PniH4ua4p50)

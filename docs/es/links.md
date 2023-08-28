@@ -7,4 +7,7 @@ Aquí una selección de links que me han parecido interesantes
 [DXEngineering - choosing the right balun](https://www.dxengineering.com/techarticles/balunsandfeedlinechokes/baluns-choosing-the-correct-balun) | [Archive](https://web.archive.org/web/20221029223714/https://www.dxengineering.com/techarticles/balunsandfeedlinechokes/baluns-choosing-the-correct-balun)
 
 ## Xiegu G90
-[How to use digital modes on the cheap and easy](https://www.youtube.com/watch?v=3DxY1HecbhQ)
+[Como usar modos digitales fácil y barato [ENG]](https://www.youtube.com/watch?v=3DxY1HecbhQ)
+
+## Antenas
+[Antena fabricada con dos perchas para las bandas de 2 metros y 70 cm de M0MSN [ENG]](https://www.youtube.com/watch?v=PniH4ua4p50)
